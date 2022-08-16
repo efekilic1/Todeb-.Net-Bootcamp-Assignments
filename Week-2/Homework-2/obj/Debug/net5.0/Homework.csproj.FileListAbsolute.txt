@@ -1,0 +1,16 @@
+/Users/muhammedkilic/Desktop/pratikler/Homework/bin/Debug/net5.0/Homework
+/Users/muhammedkilic/Desktop/pratikler/Homework/bin/Debug/net5.0/Homework.deps.json
+/Users/muhammedkilic/Desktop/pratikler/Homework/bin/Debug/net5.0/Homework.runtimeconfig.json
+/Users/muhammedkilic/Desktop/pratikler/Homework/bin/Debug/net5.0/Homework.runtimeconfig.dev.json
+/Users/muhammedkilic/Desktop/pratikler/Homework/bin/Debug/net5.0/Homework.dll
+/Users/muhammedkilic/Desktop/pratikler/Homework/bin/Debug/net5.0/Homework.pdb
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/Homework.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/Homework.AssemblyInfoInputs.cache
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/Homework.AssemblyInfo.cs
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/Homework.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/Homework.dll
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/refint/Homework.dll
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/Homework.pdb
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/Homework.genruntimeconfig.cache
+/Users/muhammedkilic/Desktop/pratikler/Homework/obj/Debug/net5.0/ref/Homework.dll

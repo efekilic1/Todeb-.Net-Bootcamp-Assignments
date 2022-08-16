@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{EF1DCFD4-5365-45FA-9BC4-D7A512264396}|WebApi">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TODEBCamp" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="Business" expanded="True">
+              <Node name="Concrete" expanded="True">
+                <Node name="CustomerService.cs" selected="True" />
+              </Node>
+              <Node name="Configuration" expanded="True">
+                <Node name="MapperProfile" expanded="True" />
+                <Node name="Validator" expanded="True">
+                  <Node name="FluentValidation" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="DAL" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+              <Node name="DbContexts" expanded="True" />
+            </Node>
+            <Node name="DTO" expanded="True">
+              <Node name="Customer" expanded="True" />
+            </Node>
+            <Node name="Models" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>ConsoleUI/ConsoleUI.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/muhammedkilic/Library/Caches/VisualStudio/8.0/Symbols/FluentValidation/FluentValidation/3ac7d18b12fccc93e54e0061ffe462a96871e5b3</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/muhammedkilic/Desktop/pratikler/odev-5/TODEBCamp/Models/Entities/OrderDetail.cs" relfile="Models/Entities/OrderDetail.cs" line="4" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
