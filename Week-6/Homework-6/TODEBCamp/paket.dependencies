@@ -1,6 +1,0 @@
-source https://www.nuget.org/api/v2
-nuget Microsoft.EntityFrameworkCore 5.0.17
-nuget Microsoft.EntityFrameworkCore.Design 5.0.17
-nuget Microsoft.EntityFrameworkCore.Relational 5.0.17
-nuget Microsoft.EntityFrameworkCore.Tools 5.0.17
-nuget Npgsql.EntityFrameworkCore.PostgreSQL 5.0.7

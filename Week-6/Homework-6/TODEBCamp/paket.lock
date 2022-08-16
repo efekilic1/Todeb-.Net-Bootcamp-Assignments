@@ -1,8 +1,0 @@
-NUGET
-  remote: https://www.nuget.org/api/v2
-    Microsoft.EntityFrameworkCore (5.0.17)
-    Microsoft.EntityFrameworkCore.Design (5.0.17)
-    Microsoft.EntityFrameworkCore.Relational (5.0.17)
-    Microsoft.EntityFrameworkCore.Tools (5.0.17)
-      Microsoft.EntityFrameworkCore.Design (>= 5.0.17) - restriction: >= netstandard2.0
-    Npgsql.EntityFrameworkCore.PostgreSQL (5.0.7)

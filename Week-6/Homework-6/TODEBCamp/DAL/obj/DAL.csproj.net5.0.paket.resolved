@@ -1,5 +1,0 @@
-Microsoft.EntityFrameworkCore,5.0.17,Direct,Main,false,true,false,true
-Microsoft.EntityFrameworkCore.Design,5.0.17,Direct,Main,false,true,false,true
-Microsoft.EntityFrameworkCore.Relational,5.0.17,Direct,Main,false,true,false,true
-Microsoft.EntityFrameworkCore.Tools,5.0.17,Direct,Main,false,true,false,true
-Npgsql.EntityFrameworkCore.PostgreSQL,5.0.7,Direct,Main,false,true,false,true
