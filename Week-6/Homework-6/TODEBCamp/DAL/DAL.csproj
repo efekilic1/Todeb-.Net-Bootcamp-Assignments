@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="DbContexts\" />
+    <None Remove="Abstract\" />
+    <None Remove="Concrete\" />
+    <None Remove="Concrete\Dapper\" />
+    <None Remove="Concrete\EF\" />
+    <None Remove="EFBase\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DbContexts\" />
+    <Folder Include="DbContexts\BookStoreDbContext.cs" Condition=" '$(EnableDefaultCompileItems)' == 'true' " />
+    <Folder Include="Abstract\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Concrete\Dapper\" />
+    <Folder Include="Concrete\EF\" />
+    <Folder Include="EFBase\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\DTO\DTO.csproj" />
+  </ItemGroup>
+  <Import Project="..\.paket\Paket.Restore.targets" />
+</Project>
